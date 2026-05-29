@@ -8,6 +8,8 @@ Most responses were accurate and gave useful guidance for basic Exchange tasks l
 
 ## Did the agent stay within its purpose?
 Yes. The agent stayed focused on Exchange administration support and did not go off-topic during testing.
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/7fcd728d-ee33-4691-a966-59552ef2d723" />
+
 
 ## Areas for improvement
 Some responses were too basic and could include more detailed troubleshooting steps or links to Microsoft documentation.
